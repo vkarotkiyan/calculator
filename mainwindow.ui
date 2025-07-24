@@ -16,6 +16,11 @@
   <property name="windowTitle">
    <string>Калькулятор</string>
   </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget {color: #000000; background-color: #bbbbbb;}
+QPushButton {color: #000000; background-color: #999999;}
+QLineEdit {color: #000000; background-color: #eeeeee;}</string>
+  </property>
   <widget class="QWidget" name="centralwidget">
    <property name="maximumSize">
     <size>
